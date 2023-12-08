@@ -1,6 +1,25 @@
-.box {
+.box_1 {
     background-color: aquamarine;
     padding-left: 30px;
     width: 360px;
     height: 170px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.box_2 {
+    background-color: red;
+    padding-left: 30px;
+    width: 360px;
+    height: 300px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.box_3 {
+    background-color: blue;
+    padding-left: 30px;
+    width: 360px;
+    height: 240px;
+    margin-top: 5px;
 }
