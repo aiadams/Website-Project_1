@@ -22,4 +22,10 @@
     width: 360px;
     height: 240px;
     margin-top: 5px;
+    margin-left: 660px;
+    margin-top: -420px;
+}
+
+.all {
+    background-color: blanchedalmond;
 }
