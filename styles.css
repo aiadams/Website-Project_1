@@ -74,5 +74,9 @@
     height: 880px;
 }
 
+button {
+    cursor: pointer;
+}
+
 
 
